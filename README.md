@@ -8,5 +8,5 @@ The workflow is explained in detail in the paper mentioned below:
 
 Dependencies:
 
-[Festival ( with some nice voice)](http://www.cstr.ed.ac.uk/projects/festival/)
+[Festival](http://www.cstr.ed.ac.uk/projects/festival/) ( with some nice voice)
 
