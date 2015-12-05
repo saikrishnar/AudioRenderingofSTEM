@@ -1,0 +1,1 @@
+<?xml version="1.0"?><!DOCTYPE SABLE PUBLIC "-//SABLE//DTD SABLE speech mark up//EN" "Sable.v0_2.dtd" []><SABLE>integral underscript x superscript 2 plus y superscript 2 is less than or equal to R superscript 2 f ( x , y ) D x D y is equal to integral from theta is equal to 0 to 2 pi integral from r is equal to 0 to R f ( r cos theta , r sine theta ) r D r D theta .</SABLE>

@@ -1,0 +1,17 @@
+technique 2:
+not working:
+example 10 : 44b
+example 11: not saying root
+example 13: 44B
+example 14: =??
+example 16: 44B
+example 17:44B
+example 3: fraction x...?
+example 4: sound instead of root
+example 5: 44B
+example 7: no root. sound instead of root
+missing:
+example 6
+
+technique1:
+

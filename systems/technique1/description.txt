@@ -1,0 +1,5 @@
+Technique 1:
+
+Basic audio rendering of mathematic equations: 
+This step deals with rendering mathematic equations in audio. We have chosen the input format for the mathematic equations to be presentation markup mathML. The result of this step is the spoken output of a mathematic equation. The equation is read as it is. That is, like any other English sentence.
+

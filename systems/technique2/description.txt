@@ -1,0 +1,5 @@
+Use of meta-cues or para-linguistic cues:
+In this step, we build upon the base system built in step one. In this step, we make use of additional paralinguistic cues to render the mathematic equation. These cues include;
+• Pauses to convey certain parts of an equation.
+ Sounds to indicate certain symbols and mathematical operations.
+E.g.: Sounds to indicate superscripts, subscripts and parentheses.

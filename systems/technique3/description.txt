@@ -1,0 +1,2 @@
+Use of tonal variations:
+In this step, we build up on the system built as a part of step one. We use pitch and rate changes to denote certain mathematic attributes. The pitch and rate increase while speaking out the superscript text and decrease while speaking the subscript text. The system does the same with fractions.

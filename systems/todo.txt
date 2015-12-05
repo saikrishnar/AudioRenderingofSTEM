@@ -1,0 +1,3 @@
+•	generate wave files for techniques 1,2,3 and 5 from sable outputs.
+•	generate outputs for example 14,18 and 19 in technique4. — sable files for examples 18 and 19 updated
+•	replace sounds with the ones from new_sounds folder while generating outputs for technique2 and technique5.
